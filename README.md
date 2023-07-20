@@ -102,4 +102,5 @@ After some time, the outputs on the terminal for the applications and the databa
 
 
 And here is a plot of a similation with Grafrana:
+
 ![Screenshot](illustrations/grafana.png)
