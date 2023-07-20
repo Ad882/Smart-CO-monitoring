@@ -8,7 +8,7 @@
 ##
 
 ## _Simulation on cooja:_
-⚠️ **Warning**: Before using the simulation "project.csc", make sure *cooja*  and *MySQL* are installed on your computer. ⚠️
+⚠️ **Warning**: Before using the simulation "project.csc", make sure *cooja* is installed on your computer. ⚠️
 
 ### Preparing the simulation:
 > Once contiki and cooja are installed:
