@@ -75,5 +75,14 @@ cd ./contiki-ng/project/application
 python3.7 coap_actuator.py
 ```
 
+
+### The LEDs:
+On the following screenshot of the simulation we can see that:
+
+Sensor 2 : 79 ppm => Actuator 5 has its LED $${\color{green}green}$$ (low mode)
+Sensor 3 : 310 ppm => Actuator 6 has its LED $${\color{red}red}$$ (high mode)
+Sensor 4 :136ppm => Actuator 7 has its LED $${\color{yellow}yellow}$$ (moderate mode)
+![Screenshot](illustrations/leds_simulation.png)
+
 ### Results:
 ![Screenshot](illustrations/grafana.png)
