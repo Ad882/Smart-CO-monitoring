@@ -76,4 +76,4 @@ python3.7 coap_actuator.py
 ```
 
 ### Results:
-
+![Screenshot](illustrations/grafana.png)
