@@ -75,14 +75,29 @@ cd ./contiki-ng/project/application
 python3.7 coap_actuator.py
 ```
 
+At this stage the cooja mote output window should look like:
+
+![Screenshot](illustrations/start_simulation.png)
 
 ### The LEDs:
 On the following screenshot of the simulation we can see that:
 
-Sensor 2 : 79 ppm => Actuator 5 has its LED $${\color{green}green}$$ (low mode)
-Sensor 3 : 310 ppm => Actuator 6 has its LED $${\color{red}red}$$ (high mode)
-Sensor 4 :136ppm => Actuator 7 has its LED $${\color{yellow}yellow}$$ (moderate mode)
+Sensor 2 : 79 ppm => Actuator 5 has its LED ${\color{green}green}$ (low mode)
+
+Sensor 3 : 310 ppm => Actuator 6 has its LED ${\color{red}red}$ (high mode)
+
+Sensor 4 :136ppm => Actuator 7 has its LED ${\color{yellow}yellow}$ (moderate mode)
+
 ![Screenshot](illustrations/leds_simulation.png)
 
+### The use of the button:
+When triggering a button, this acts like an emergency button that opens all the emergency exits. Thus the CO level drops instantly:
+
+![Screenshot](illustrations/button.png)
+
 ### Results:
+After some time, the outputs on the terminal for the applications and the database should look like:
+
+
+And here is a plot of a similation with Grafrana:
 ![Screenshot](illustrations/grafana.png)
