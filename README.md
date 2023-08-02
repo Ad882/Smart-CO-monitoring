@@ -17,7 +17,7 @@ Download the directory project and place it in the following contiki directory:
 cd ./contiki-ng/
 ```
 
-### Create the database
+### Create the database:
 > Install MySQL:
 ```  
 sudo apt update
