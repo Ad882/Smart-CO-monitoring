@@ -82,11 +82,11 @@ At this stage the cooja mote output window should look like this:
 ### The LEDs:
 On the following screenshot of the simulation we can see that:
 
-Sensor 2 : 79 ppm => Actuator 5 has its LED ${\color{green}green}$ (low mode)
+Sensor 2 : 79 ppm => Actuator 5 has its LED ${\color{green}green}$ (low mode).
 
-Sensor 3 : 310 ppm => Actuator 6 has its LED ${\color{red}red}$ (high mode)
+Sensor 3 : 310 ppm => Actuator 6 has its LED ${\color{red}red}$ (high mode).
 
-Sensor 4 :136ppm => Actuator 7 has its LED ${\color{yellow}yellow}$ (moderate mode) (In cooja the led appears ${\color{blue}blue}$)
+Sensor 4 :136ppm => Actuator 7 has its LED ${\color{yellow}yellow}$ (moderate mode) (In cooja the led appears ${\color{blue}blue}$).
 
 ![Screenshot](illustrations/leds_simulation.png)
 
@@ -96,7 +96,7 @@ When triggering a button, this acts like an emergency button that opens all the 
 ![Screenshot](illustrations/button.png)
 
 ### Results:
-After some time, the outputs on the terminal for the applications and the database should look like:
+After some time, the outputs on the terminal for the applications and the database should look like this:
 
 ![Screenshot](illustrations/merged_terminal_applications.png)
 
