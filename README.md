@@ -75,7 +75,7 @@ cd ./contiki-ng/project/application
 python3.7 coap_actuator.py
 ```
 
-At this stage the cooja mote output window should look like:
+At this stage the cooja mote output window should look like this:
 
 ![Screenshot](illustrations/start_simulation.png)
 
@@ -86,7 +86,7 @@ Sensor 2 : 79 ppm => Actuator 5 has its LED ${\color{green}green}$ (low mode)
 
 Sensor 3 : 310 ppm => Actuator 6 has its LED ${\color{red}red}$ (high mode)
 
-Sensor 4 :136ppm => Actuator 7 has its LED ${\color{yellow}yellow}$ (moderate mode)
+Sensor 4 :136ppm => Actuator 7 has its LED ${\color{yellow}yellow}$ (moderate mode) (In cooja the led appears ${\color{blue}blue}$)
 
 ![Screenshot](illustrations/leds_simulation.png)
 
