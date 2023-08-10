@@ -1,10 +1,9 @@
 # Smart CO monitoring
 
-### The aim of the project was to create an IoT telemetry and control system. I decided to work on a solution to monitor the carbon monoxide level in factories.
+The aim of the project was to create an IoT telemetry and control system. I decided to work on a solution to monitor the carbon monoxide level in factories.
 
-### On this document the implementation and the details of the codes are not explained. For more information about the choices and the code please refer to the following document:  [Documentation.pdf](Documentation.pdf).
-
-## 
+On this document the implementation and the details of the codes are not explained. For more information about the choices and the code please refer to the following document:  [Documentation.pdf](Documentation.pdf).
+ 
 ##
 
 ## _Simulation on cooja:_
