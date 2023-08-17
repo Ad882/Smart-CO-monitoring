@@ -100,6 +100,6 @@ After some time, the outputs on the terminal for the applications and the databa
 ![Screenshot](illustrations/merged_terminal_applications.png)
 
 
-And here is a plot of a similation with Grafrana:
+And here is a plot of a simulation with Grafrana:
 
 ![Screenshot](illustrations/grafana.png)
